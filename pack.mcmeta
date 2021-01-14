@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 6,
+      "description": "Eiruu Resourcepack"
+   },
+   "language": {
+      "en_xa": {
+         "name": "Eiruu Language",
+         "region": "Eiruu Language",
+         "bidirectional": false
+      }
+   }
+}
